@@ -1,3 +1,4 @@
 # champagne.dev
 
-champagne.dev Site
+champagne.dev
+
